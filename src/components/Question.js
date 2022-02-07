@@ -140,7 +140,7 @@ export default class Question extends Component {
             Enviar
           </ButtonStyled>
           <h2 style={{ textAlign: "center" }}>
-            {this.state.score}/{questionGeek.lenght}
+            {this.state.score}/{questionGeek.length}
           </h2>
         </FormStyle>
       </DivForm>
